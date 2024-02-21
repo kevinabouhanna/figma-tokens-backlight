@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/protest-open-g3cng.figma-tokens-lsug9e6j",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve IcqEQ847XUJWOQXp82Kj --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
